@@ -41,7 +41,9 @@ Use [Protobot](http://molly.is/experimenting/protobot/#) to generate idea
    
 ## Exercises 
 
-### Number 1
+### Number 1:    
+
+> Protobot Generation: Design a mop that will help you find a date 
 
 #### Step 1 Build User Stories:
        As a < type of user >, I want < some goal > so that < some reason >.
