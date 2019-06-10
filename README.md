@@ -21,8 +21,8 @@ The goal is to apply concepts learned for Product Owner responsbilities, build c
 * You can also request changes on the text using [*issues*](https://github.com/JJ/hoborg/issues). If you find
   an error of any kind, just raise an issue and I'll fix it (or try
   to).
-* Create your own version: once forked, you can use git (check out
-  this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to
+* Create your own version: once forked, you can use git 
+  - (check out this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to
   branch and evolve the story in whichever way you want.
 * If you think there is a worthwhile addition do a Pull Request.
   
