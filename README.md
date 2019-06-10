@@ -16,11 +16,7 @@ The goal is to apply concepts learned for Product Owner responsbilities, build c
 
 * Get a [GitHub account](http://github.com).
 * Watch or Star this repo. This may help me achieve some visibility.
-* You can interact with the text and the rest directly from the web here:(
-  you can comment on text and changes in it (called *commits*).
-* You can also request changes on the text using [*issues*](https://github.com/JJ/hoborg/issues). If you find
-  an error of any kind, just raise an issue and I'll fix it (or try
-  to).
+* You can interact with the text and the rest directly from here:(you can comment on text and changes in it (called *commits*).
 * Create your own version: once forked, you can use git 
   - (check out this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to
   branch and evolve the story in whichever way you want.
