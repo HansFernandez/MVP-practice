@@ -25,7 +25,6 @@ The goal is to apply concepts learned for Product Owner responsbilities, build c
   this manual http://wiki.freegeek.org/index.php/Git_for_dummies ) to
   branch and evolve the story in whichever way you want.
 * If you think there is a worthwhile addition do a Pull Request.
-* 
   
   
 
