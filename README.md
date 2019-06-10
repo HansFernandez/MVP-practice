@@ -9,7 +9,7 @@ The goal is to apply concepts learned for Product Owner responsbilities, build c
 ### Contents
 - [How you can help](#how-you-can-help)
 - [Exercises](#Exercises)
- - [Number 1](#Number-1)
+  - [Number 1](#Number-1)
 
 
 ### How you can help
