@@ -28,7 +28,7 @@ The goal is to apply concepts learned for Product Owner responsbilities, build c
   
   
 
-### Current Approach 
+### Current Approach (Open to Suggestions/Recommendations)
 
 
 **Task**: 
